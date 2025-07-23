@@ -4,6 +4,7 @@ this is a phishing detection tool using ai
 AI-PhishShield is an open-source, AI-powered phishing detection tool designed to identify and prevent phishing attacks through email analysis and malicious link scoring. This tool helps individuals and organizations enhance their cybersecurity posture by proactively detecting and explaining potential threats.
 
 🚀 Features
+<pre> <code>
 ✅ AI-Powered Email Phishing Detection
 Uses machine learning models to analyze the content, headers, and intent of emails to detect phishing attempts.
 
@@ -28,8 +29,9 @@ Generates an easy-to-understand threat score for both emails and URLs to help us
 
 ✅ User Education Dashboard
 Includes a simple UI to guide users through phishing identification tips and safe browsing habits.
-
+</pre> </code>
 💡 Use Cases
+<pre> <code>
 ✅ Train non-technical staff to recognize phishing attempts
 
 ✅ Integrate into security awareness programs
@@ -37,8 +39,9 @@ Includes a simple UI to guide users through phishing identification tips and saf
 ✅ Automate link and email validation pipelines
 
 ✅ Run batch email analyses in SOC teams or help desks
-
+</pre></code>
 📦 Technologies Used
+<pre><code>
 Python (Flask or FastAPI for backend)
 
 Scikit-learn / TensorFlow for ML models
@@ -48,8 +51,9 @@ URL reputation APIs (e.g., VirusTotal, PhishTank)
 Natural Language Processing (NLP)
 
 HTML/CSS/JS for optional front-end dashboard
-
+</pre> </code>
 📚 Learn More
+<pre> <code>
 This repository also includes:
 
 🧠 Articles on common phishing tactics
@@ -57,7 +61,7 @@ This repository also includes:
 📊 Examples of real phishing emails (redacted)
 
 🛠️ How to train your own phishing detection model
-
+</pre></code>
 🛡️ Disclaimer
 This tool is for educational and research purposes only. It is intended to protect users from phishing and should not be used to simulate attacks without proper authorization.
 
