@@ -1,6 +1,5 @@
 # phishing_detect_using_ai
-this is a phishing detection tool using ai  
-🛡️ AI-PhishShield — Intelligent Phishing Detection Tool
+🛡️AI-PhishShield — Intelligent Phishing Detection Tool
 AI-PhishShield is an open-source, AI-powered phishing detection tool designed to identify and prevent phishing attacks through email analysis and malicious link scoring. This tool helps individuals and organizations enhance their cybersecurity posture by proactively detecting and explaining potential threats.
 
 🚀 Features
